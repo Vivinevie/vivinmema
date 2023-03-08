@@ -5,6 +5,6 @@ function Hello() {
       </div>
 
     );
-  }
+    }
   
   export default Hello;
